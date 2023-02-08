@@ -41,7 +41,7 @@ Tools: As this is a smaller dataset, I will use Microsoft Excel to clean and ana
 
 This screenshot shows that when I try to convert the dates to Number Format, not all of them convert to date serial numbers
 
-![](All%20Images/Picture2.jpg)
+![](Images/Picture2.jpg)
 
 After using the 'text to columns' tab, I was able to define to format of the data which resulted in the dataset being set to the correct format of DD/MM/YYYY.
 
@@ -61,31 +61,31 @@ After using the 'text to columns' tab, I was able to define to format of the dat
 
 2.	I created a pivot table and focused on average screen time and the day of the week to see what day screen time was the highest and the lowest.
 
-![](All%20Images/Picture3.jpg)
+![](Images/Picture3.jpg)
  
 I organised the data to show screen time from highest to lowest. We can see that Wednesday is the day where screen time is the highest at an average of 142.75 minutes and Sunday as the lowest at average 81.5 minutes over the 28 days.
 
 3.	The most screen time is spent using social media at an average of 60 minutes a day over the week as compared to other categories.
 
-![](All%20Images/Picture4.jpg)
+![](Images/Picture4.jpg)
 
 4.	Comparing the months of April and May, it shows that screen time is reduced by 16.4 minutes of average in the month of May where yoga was incorporated daily. On the other hand, we can see that social networking didn’t change significantly between the two months, in fact, it increased slightly in May where yoga was incorporated into the daily routine.
 
-![](All%20Images/Picture5.jpg)
+![](Images/Picture5.jpg)
 
 5.	There was a decrease in screen time amongst ‘Reading and Reference’, ‘Other’ and ‘Productivity’ of 5.86 minutes, 13.07 minutes and 0.43 minutes in the month of May where yoga was incorporated daily.
 
-![](All%20Images/Picture6.jpg)
+![](Images/Picture6.jpg)
 
 6.	I will compare week by week for each month and see if there is anything I can pick up from comparisons. I will do this by each day of the week for 4 weeks.
 
-![](All%20Images/Picture7.jpg)
-![](All%20Images/Picture8.jpg)
-![](All%20Images/Picture9.jpg)
-![](All%20Images/Picture10.jpg)
-![](All%20Images/Picture11.jpg)
-![](All%20Images/Picture12.jpg)
-![](All%20Images/Picture13.jpg)
+![](Images/Picture7.jpg)
+![](Images/Picture8.jpg)
+![](Images/Picture9.jpg)
+![](Images/Picture10.jpg)
+![](Images/Picture11.jpg)
+![](Images/Picture12.jpg)
+![](Images/Picture13.jpg)
 
 Here I can already see that as each Wednesday goes by, the total screen time decreases. 187 minutes to 135 minutes, to 127 minutes and finally 122 minutes in the last week. Between the first two weeks of no yoga and the last two weeks of completed yoga, total screen time has a total reduction of 65 minutes. I see a similar trend for Saturday. All other days tend to increase and decrease between the 4 weeks for total screen time. I can also see that time spent on social networking decreases from around 1.5 hours for the first three Wednesdays to under 1 hour in the last Wednesday. Sunday and Monday also show the shortest time spent social networking in the fourth week where yoga is incorporated. Other days fluctuate or remain steady regarding social networking and other categories so I cannot detect a trend between days for the four-week period. As results are not consistent with these findings across all days, I cannot use this data to make any assumptions for the weeks.
  
