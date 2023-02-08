@@ -11,7 +11,7 @@ This dataset spans between April 17th 2019 to May 14th 2019 (28 days) and compri
 +	Weekday – to identify exactly the day of screen time.
 +	Social Networking, Reading and reference, Other, Productivity, Health and Fitness – time in minutes spent of these apps.
 +	Yoga – if yoga was done that day 
-### NOTE: April - Yoga not consistenly attempted/May - Yoga consistently attempted.
+### NOTE: April - Yoga was not consistenly attempted/May - Yoga consistently attempted.
 
 ## ASK: 
 As this dataset is only for exploratory purposes, I have compiled some questions to try and answer during analysis.
