@@ -10,8 +10,7 @@ This dataset spans between April 17th 2019 to May 14th 2019 (28 days) and compri
 +	Date – the date of screen time 
 +	Weekday – to identify exactly the day of screen time.
 +	Social Networking, Reading and reference, Other, Productivity, Health and Fitness – time in minutes spent of these apps.
-+	Yoga – if yoga was done that day.
-
++	Yoga – if yoga was done that day ###NOTE: April - Yoga not consistenly attempted/May - Yoga consistently attempted.
 ## ASK: 
 As this dataset is only for exploratory purposes, I have compiled some questions to try and answer during analysis.
 
@@ -95,7 +94,7 @@ Here I can already see that as each Wednesday goes by, the total screen time dec
 I produced a visualisation illustrating significant findings using Tableau, via this link: https://public.tableau.com/views/Howcanincorporatingyogaintoyourdailyroutineimpactscreentime/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ### The overall conclusions I have interpreted are as follows:
-1.	Overall, Total Screen Time reduced by 16.1 minutes on average between April and May.
+1.	Overall, Total Screen Time reduced by 16.1 minutes on average between April and May. In April, Yoga was NOT consistently attempted, in May, Yoga was consistently attempted.
 2.	Social networking stayed at around 60 minutes between April and May, showing that Yoga had no impact on time spent on networking.
 3.	On average, Wednesday proved to be the day of highest screen time over the 28 days and Sunday as the lowest.
 4.	Productivity, Reading and Reference and Other collectively had a reduced screen time between April and May. 
