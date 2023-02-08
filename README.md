@@ -37,7 +37,7 @@ Tools: As this is a smaller dataset, I will use Microsoft Excel to clean and ana
 -	‘Weekday’ = Text
 -	Categories = Number to 1.d.p.
 
-![](All%20Images/Picture1.jpg)
+![](Images/Picture1.jpg)
 
 This screenshot shows that when I try to convert the dates to Number Format, not all of them convert to date serial numbers
 
