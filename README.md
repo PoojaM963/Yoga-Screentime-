@@ -92,7 +92,7 @@ I organised the data to show screen time from highest to lowest. We can see that
 Here I can already see that as each Wednesday goes by, the total screen time decreases. 187 minutes to 135 minutes, to 127 minutes and finally 122 minutes in the last week. Between the first two weeks of no yoga and the last two weeks of completed yoga, total screen time has a total reduction of 65 minutes. I see a similar trend for Saturday. All other days tend to increase and decrease between the 4 weeks for total screen time. I can also see that time spent on social networking decreases from around 1.5 hours for the first three Wednesdays to under 1 hour in the last Wednesday. Sunday and Monday also show the shortest time spent social networking in the fourth week where yoga is incorporated. Other days fluctuate or remain steady regarding social networking and other categories so I cannot detect a trend between days for the four-week period. As results are not consistent with these findings across all days, I cannot use this data to make any assumptions for the weeks.
  
 ## SHARE:
-I produced a visualisation illustrating significant findings using Tableau. Please click this link: https://public.tableau.com/views/Howcanincorporatingyogaintoyourdailyroutineimpactscreentime/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+I produced a visualisation illustrating significant findings using Tableau, via this link: https://public.tableau.com/views/Howcanincorporatingyogaintoyourdailyroutineimpactscreentime/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ### The overall conclusions I have interpreted are as follows:
 1.	Overall, Total Screen Time reduced by 16.1 minutes on average between April and May.
