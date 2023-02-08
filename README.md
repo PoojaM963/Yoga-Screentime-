@@ -1,6 +1,9 @@
 Yoga-Screentime
 # How can incorporating yoga into your daily routine impact screen time?
 
+
+![](Images/https://github.com/PoojaM963/Yoga-Screentime-/blob/main/Images/Yoga%20nature%20image.jpeg)
+
 ## About the dataset 
 
 This dataset spans between April 17th 2019 to May 14th 2019 (28 days) and comprises of data for screen time habits in daily minutes for one individual. The dataset used comes from a public Kaggle dataset uploaded by The Devastator/ Taylor L. Bailey. See link for dataset: https://www.kaggle.com/datasets/thedevastator/how-does-daily-yoga-impact-screen-time-habits?resource=download&select=Screen+Time+Data.csv Screen time was recorded considering the amount of time spent on using different types of apps. These include social media, reading, productivity and entertainment. Yoga when attempted was done for 10 minutes per day. The data is provided with context which will enable for much more accurate insights regarding the data. 
